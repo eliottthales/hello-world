@@ -1,2 +1,3 @@
 # hello-world
 Learning how to...
+My name is Eliott, I enjoy coding and I am here to develop my skills.
